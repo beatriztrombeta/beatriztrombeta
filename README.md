@@ -1,7 +1,7 @@
-# 💫 About Me:
+## Hi, I'm Beatriz
+<img src="readme-image.png">
 🌸 I’m currently studying Analysis and Systems Development<br>📑 I’m currently learning Python, C# and Cloud concepts<br>🎀 Fun fact -> I am an illustrator!
 
-<img src="readme-image.png">
 
 
 ## 🌐 Socials:
