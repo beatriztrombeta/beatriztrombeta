@@ -14,8 +14,14 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width="36px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-plain.svg" width="36px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-plain.svg" width="36px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" width="36px"/>
 
 ## GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=beatriztrombeta&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=beatriztrombeta&theme=dracula&hide_border=false)<br/>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=beatriztrombeta&theme=dracula" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=beatriztrombeta&theme=dracula&hide_border=false&card_width=200" />
+</a>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=beatriztrombeta&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
