@@ -1,2 +1,3 @@
-## Hi, I'm Beatriz
-#### I’m an Analysis and Systems Development student who loves mix code and design, hope you have a great time here! ♡
+<img src="readme-image.png">
+
+### I am a developer who graduated from the Faculty of Technology (FATEC) and is currently studying for a degree in Mathematics at São Paulo State University (UNESP). I aim to be a good researcher and professor. Hope you have a great time here! ♡
